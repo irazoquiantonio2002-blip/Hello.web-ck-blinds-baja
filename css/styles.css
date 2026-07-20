@@ -756,6 +756,14 @@ button { font-family: inherit; }
 .galeria-cta { text-align: center; margin-top: 48px; }
 
 /* ============================================================
+   SECTION: PÉRGOLAS BIOCLIMÁTICAS
+   ============================================================ */
+#pergolas {
+  padding: 130px 0;
+  background: var(--bg);
+}
+
+/* ============================================================
    SECTION: PROCESO
    ============================================================ */
 #proceso {

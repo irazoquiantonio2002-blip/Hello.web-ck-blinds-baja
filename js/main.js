@@ -95,9 +95,9 @@
   if (marqueeInner) {
     const items = [
       'Persianas Verticales', 'Cortinas a Medida', 'Toldos para Terraza',
-      'Instalación Profesional', 'Asesoría Personalizada', 'Cortinas Blackout',
-      'Hogares y Oficinas', 'Baja California Sur', 'Calidad Garantizada',
-      'Cotización Gratis', 'Telas de Alta Densidad', 'Diseño de Interiores'
+      'Pérgolas Bioclimáticas', 'Instalación Profesional', 'Asesoría Personalizada',
+      'Persianas Sheer', 'Hogares y Oficinas', 'Baja California Sur', 'Calidad Garantizada',
+      'Cotización Gratis', 'Diseño de Interiores'
     ];
     const full = [...items, ...items, ...items, ...items];
     marqueeInner.innerHTML = full.map(t => `<span>${t}</span>`).join('');
